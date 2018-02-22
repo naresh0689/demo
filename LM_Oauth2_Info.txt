@@ -1,0 +1,89 @@
+------------------------------------------------------------------------------------
+Gmail :
+------------------------------------------------------------------------------------
+Account - 1 
+---------------------------------------------------------------------
+First Name : Jagan
+Last  Name : Shris
+Mail  Id   : shrisinfotech.j@gmail.com	
+Password   : 1Ph0ne$123
+
+Account - 2
+---------------------------------------------------------------------
+First Name : Naresh
+Last  Name : Shris
+Mail  Id   : shrisinfotech.n@gmail.com	
+Password   : 1Ph0ne$123
+
+------------------------------------------------------------------------------------
+Facebook :
+------------------------------------------------------------------------------------
+Account - 1 
+---------------------------------------------------------------------
+Mail  Id   : shrisinfotech.j@gmail.com	
+Password   : 1Ph0ne$123
+
+Developer:
+---------------------------------------------------------------------
+App ID  : 150431139100922
+App Secret : 2a990735efd6a9a7c5f6545a0107ea28
+
+
+Account - 2
+---------------------------------------------------------------------
+Mail  Id   : shrisinfotech.n@gmail.com	
+Password   : 1Ph0ne$123
+
+Application Permissions(scopes):
+---------------------------------------------------------------------
+default: public_profile, user_friends, email
+
+https://developers.facebook.com/docs/facebook-login/permissions/
+
+
+API and Docs:
+---------------------------------------------------------------------
+https://developers.facebook.com/docs/
+
+Rate Limit:
+---------------------------------------------------------------------
+https://developers.facebook.com/docs/graph-api/advanced/rate-limiting
+
+
+------------------------------------------------------------------------------------
+LinkedIn :
+------------------------------------------------------------------------------------
+Account - 1
+---------------------------------------------------------------------
+Mail  Id   : shrisinfotech.j@gmail.com	
+Password   : 1Ph0ne$123
+Mobile: 8639810526
+
+Developer:
+---------------------------------------------------------------------
+Client ID:	81li858c3rg7cn 
+Client Secret:	dh6F9QLOvjwBWCEx
+
+Application Permissions(scope):
+---------------------------------------------------------------------
+r_basicprofile	r_emailaddress	rw_company_admin
+w_share
+
+r_fullprofile, w_fullprofile, w_compliance, 
+
+API and Docs:
+---------------------------------------------------------------------
+https://developer.linkedin.com/docs
+https://developer.linkedin.com/docs/guide/v2
+
+Rate Limit:
+---------------------------------------------------------------------
+https://developer.linkedin.com/docs/guide/v2/concepts/rate-limits
+
+Partner Program:
+---------------------------------------------------------------------
+https://developer.linkedin.com/partner-programs/apply
+
+------------------------------------------------------------------------------------
+Twitter :
+------------------------------------------------------------------------------------
